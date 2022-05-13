@@ -1,0 +1,1 @@
+G:\Quake3\Quake-III-Arena\code\renderer\Debug_TA\renderer.lib
